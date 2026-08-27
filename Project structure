@@ -1,0 +1,14 @@
+java-maven-jenkins-demo/
+├── pom.xml
+├── Jenkinsfile
+└── src/
+    ├── main/
+    │   └── java/
+    │       └── com/
+    │           └── example/
+    │               └── App.java
+    └── test/
+        └── java/
+            └── com/
+                └── example/
+                    └── AppTest.java
